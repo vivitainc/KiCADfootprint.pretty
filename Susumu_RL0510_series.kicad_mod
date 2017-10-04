@@ -1,0 +1,10 @@
+(module Susumu_RL0510_series (layer F.Cu) (tedit 595CCA34)
+  (fp_text reference REF** (at 0 -1.4) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Susumu_RL0510_series (at -0.1 -2.9) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at -0.6 0) (size 0.7 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.6 0) (size 0.7 0.7) (layers F.Cu F.Paste F.Mask))
+)
