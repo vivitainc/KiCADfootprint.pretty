@@ -1,4 +1,4 @@
-(module C_1005 (layer F.Cu) (tedit 59ED4C3C)
+(module C_1005 (layer F.Cu) (tedit 59F9A146)
   (descr "Capacitor SMD 1005 mm, reflow soldering, AVX (see smccp.pdf)")
   (tags "capacitor 1005 mm")
   (attr smd)
