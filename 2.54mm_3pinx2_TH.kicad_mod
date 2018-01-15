@@ -1,4 +1,4 @@
-(module 2.54mm_3pinx2_TH (layer F.Cu) (tedit 5A3B1EC2)
+(module 2.54mm_3pinx2_TH (layer F.Cu) (tedit 5A5CC2FA)
   (fp_text reference REF** (at 0 -4.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
