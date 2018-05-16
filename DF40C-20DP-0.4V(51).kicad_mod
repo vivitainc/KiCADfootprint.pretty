@@ -1,4 +1,4 @@
-(module "DF40C-20DP-0.4V(51)" (layer F.Cu) (tedit 5A726399)
+(module "DF40C-20DP-0.4V(51)" (layer F.Cu) (tedit 5AFB8B12)
   (solder_paste_ratio -0.2)
   (fp_text reference CN2 (at 0 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
