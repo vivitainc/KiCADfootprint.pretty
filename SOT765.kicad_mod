@@ -1,4 +1,4 @@
-(module SOT765 (layer F.Cu) (tedit 599FCE42)
+(module SOT765 (layer F.Cu) (tedit 5B03E355)
   (tags "SOT765, MO-187, VSSOP8")
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -6,6 +6,10 @@
   (fp_text value SOT765 (at 0 2.8) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start -1 1.15) (end 1 1.15) (layer F.Fab) (width 0.1))
+  (fp_line (start 1 1.15) (end 1 -1.15) (layer F.Fab) (width 0.1))
+  (fp_line (start 1 -1.15) (end -1 -1.15) (layer F.Fab) (width 0.1))
+  (fp_line (start -1 -1.15) (end -1 1.15) (layer F.Fab) (width 0.1))
   (fp_line (start -1 -1.15) (end -1 1.15) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1 1.15) (end 1 1.15) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1 1.15) (end 1 -1.15) (layer F.CrtYd) (width 0.05))
