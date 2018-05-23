@@ -1,8 +1,8 @@
-(module Drill_1.6mm_M1.4 (layer F.Cu) (tedit 59F80203)
+(module Drill_1.6mm_M1.4 (layer F.Cu) (tedit 5B052634)
   (fp_text reference REF** (at 0 -3.6) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Drill_1.6mm_M1.4 (at 0 2.2) (layer F.Fab)
+  (fp_text value Drill_1.6mm_M1.4 (at 0 2.2) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad "" np_thru_hole circle (at 0 0) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Paste *.Mask)

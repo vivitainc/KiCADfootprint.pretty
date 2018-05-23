@@ -1,10 +1,10 @@
-(module Drill_1.5mm-1.1mm_daen (layer F.Cu) (tedit 5992A8EF)
+(module Drill_1.5mm-1.1mm_daen (layer F.Cu) (tedit 5B05261E)
   (fp_text reference REF** (at 0 -3.6) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Drill_1.5mm-1.1mm_daen (at 0 2.2) (layer F.Fab)
+  (fp_text value Drill_1.5mm-1.1mm_daen (at 0 2.2) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad "" np_thru_hole oval (at 0 0) (size 1.6 1.1) (drill oval 1.5 1.1) (layers *.Cu *.Mask)
+  (pad "" np_thru_hole oval (at 0 0) (size 1.5 1.1) (drill oval 1.5 1.1) (layers *.Cu *.Mask)
     (clearance 0.5))
 )
