@@ -1,4 +1,5 @@
 (module R-PDSO-G5 (layer F.Cu) (tedit 59F1B267)
+  (attr smd)
   (fp_text reference REF** (at 0 3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

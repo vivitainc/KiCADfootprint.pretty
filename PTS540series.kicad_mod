@@ -1,4 +1,5 @@
 (module PTS540series (layer F.Cu) (tedit 5951F2E9)
+  (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

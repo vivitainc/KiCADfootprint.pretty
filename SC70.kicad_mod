@@ -1,5 +1,6 @@
 (module SC70 (layer F.Cu) (tedit 5809E8C6)
   (tags "SC70, SOT323")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

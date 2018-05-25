@@ -1,4 +1,5 @@
 (module "USB_Micro-B(105017-0001)" (layer F.Cu) (tedit 5B04F5BE)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

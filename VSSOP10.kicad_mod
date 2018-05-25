@@ -1,4 +1,5 @@
 (module VSSOP10 (layer F.Cu) (tedit 599E64FD)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

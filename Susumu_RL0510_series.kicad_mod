@@ -1,4 +1,5 @@
 (module Susumu_RL0510_series (layer F.Cu) (tedit 595CCA34)
+  (attr smd)
   (fp_text reference REF** (at 0 -1.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

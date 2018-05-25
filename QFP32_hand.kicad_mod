@@ -1,4 +1,5 @@
 (module QFP32_hand (layer F.Cu) (tedit 589AA348)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

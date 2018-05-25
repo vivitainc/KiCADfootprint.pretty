@@ -1,4 +1,5 @@
 (module TLR2HWDTE1L00 (layer F.Cu) (tedit 5A0A9DFB)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
