@@ -1,4 +1,4 @@
-(module C_1005_hand (layer F.Cu) (tedit 5A0A93EE)
+(module C_1005_hand (layer F.Cu) (tedit 5BEE38EC)
   (descr "Capacitor SMD 1005 mm, reflow soldering, AVX (see smccp.pdf)")
   (tags "capacitor 1005 mm")
   (attr smd)
@@ -18,10 +18,8 @@
   (fp_line (start 1.15 -0.6) (end 1.15 0.6) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0.25 -0.475) (end -0.25 -0.475) (layer F.SilkS) (width 0.127))
   (fp_line (start -0.25 0.475) (end 0.25 0.475) (layer F.SilkS) (width 0.127))
-  (pad 1 smd rect (at -0.6 0) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask)
-    (zone_connect 2))
-  (pad 2 smd rect (at 0.6 0) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask)
-    (zone_connect 2))
+  (pad 1 smd rect (at -0.6 0) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.6 0) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask))
   (model Capacitors_SMD.3dshapes/C_0402.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
