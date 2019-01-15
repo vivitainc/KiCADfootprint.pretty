@@ -1,8 +1,8 @@
-(module BA3AAPC (layer F.Cu) (tedit 5C0797AA)
+(module BA3AAPC (layer F.Cu) (tedit 5C3D69A4)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BA3SSPC (at 0 -0.5) (layer F.Fab) hide
+  (fp_text value BA3AAPC (at 0 -0.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user MINUS (at 22.6 1.2) (layer F.SilkS)
@@ -25,6 +25,6 @@
   (fp_line (start -28.74 23.815) (end -28.74 -23.815) (layer F.SilkS) (width 0.2))
   (pad "" np_thru_hole circle (at 0 -19.74) (size 2.03 2.03) (drill 2.03) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 19.74) (size 2.03 2.03) (drill 2.03) (layers *.Cu *.Mask))
-  (pad 1 thru_hole circle (at 26.82 13.92) (size 1.8 1.8) (drill 1.02) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 26.82 1.22) (size 1.8 1.8) (drill 1.02) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 26.92 13.92) (size 1.8 1.8) (drill 1.02) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 26.92 1.22) (size 1.8 1.8) (drill 1.02) (layers *.Cu *.Mask))
 )
