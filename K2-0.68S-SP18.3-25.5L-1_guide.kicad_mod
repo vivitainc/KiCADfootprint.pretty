@@ -1,0 +1,9 @@
+(module K2-0.68S-SP18.3-25.5L-1_guide (layer F.Cu) (tedit 5C6D0D33)
+  (fp_text reference REF** (at 0 -5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value K2-0.68S-SP18.3-25.5L-1_guide (at 0 1.85) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
+)
