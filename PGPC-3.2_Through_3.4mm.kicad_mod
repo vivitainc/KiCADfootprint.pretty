@@ -1,0 +1,10 @@
+(module PGPC-3.2_Through_3.4mm (layer F.Cu) (tedit 5C6FF9A9)
+  (fp_text reference REF** (at 0 -5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PGPC-3.2_Through_3.4mm (at -0.05 4.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Paste *.Mask)
+    (clearance 0.5))
+)
