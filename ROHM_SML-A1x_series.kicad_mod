@@ -1,4 +1,4 @@
-(module SML-A1x_series (layer F.Cu) (tedit 5A30AA37)
+(module ROHM_SML-A1x_series (layer F.Cu) (tedit 5A30AA37)
   (attr smd)
   (fp_text reference REF** (at 0 -1.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

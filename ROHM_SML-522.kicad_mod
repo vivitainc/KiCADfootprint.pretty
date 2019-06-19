@@ -1,4 +1,4 @@
-(module SML522 (layer F.Cu) (tedit 58174821)
+(module ROHM_SML-522 (layer F.Cu) (tedit 58174821)
   (attr smd)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
