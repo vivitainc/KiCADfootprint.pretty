@@ -1,4 +1,4 @@
-(module WinbondUSON8_3x2mm (layer F.Cu) (tedit 5EAED30F)
+(module W25Q80DVUXIE (layer F.Cu) (tedit 5EAED30F)
   (fp_text reference REF** (at 0 1.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
