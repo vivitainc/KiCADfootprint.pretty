@@ -1,4 +1,4 @@
-(module R_1005 (layer F.Cu) (tedit 5B03E3C3)
+(module R_1005 (layer F.Cu) (tedit 5EB397C7)
   (descr "Resistor SMD 1005 mm, reflow soldering, AVX (see smccp.pdf)")
   (tags "Resistor 1005 mm")
   (attr smd)
@@ -16,10 +16,8 @@
   (fp_line (start 0.5 0.25) (end -0.5 0.25) (layer F.CrtYd) (width 0.1))
   (fp_line (start 0.5 -0.25) (end 0.5 0.25) (layer F.CrtYd) (width 0.1))
   (fp_line (start -0.5 -0.25) (end 0.5 -0.25) (layer F.CrtYd) (width 0.1))
-  (pad 1 smd rect (at -0.5 0) (size 0.45 0.5) (layers F.Cu F.Paste F.Mask)
-    (zone_connect 2))
-  (pad 2 smd rect (at 0.5 0) (size 0.45 0.5) (layers F.Cu F.Paste F.Mask)
-    (zone_connect 2))
+  (pad 1 smd rect (at -0.5 0) (size 0.45 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.5 0) (size 0.45 0.5) (layers F.Cu F.Paste F.Mask))
   (model Capacitors_SMD.3dshapes/C_0402.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
