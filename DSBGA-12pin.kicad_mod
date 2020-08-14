@@ -1,4 +1,5 @@
 (module DSBGA-12pin (layer F.Cu) (tedit 5F2FFA1F)
+  (attr smd)
   (fp_text reference REF** (at 0.2 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
