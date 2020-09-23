@@ -1,0 +1,11 @@
+(module JAGM12-56J93 locked (layer F.Cu) (tedit 5F6B20BE)
+  (fp_text reference CN2101 (at 0 -5.25) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value JAGM12-56J93 (at 0 -4) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole oval (at -3.5 0) (size 1.2 2.7) (drill oval 0.5 1.8) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 3.5 0) (size 1.2 2.7) (drill oval 0.5 1.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers *.Cu *.Mask))
+)
