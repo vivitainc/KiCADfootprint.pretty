@@ -1,11 +1,11 @@
-(module SSOP-8_2.95x2.8mm_Pitch0.65mm (layer F.Cu) (tedit 5FABA0F1)
+(module SSOP-8_2.95x2.8mm_Pitch0.65mm (layer F.Cu) (tedit 5FB23127)
   (descr "SSOP-8 2.9 x2.8mm Pitch 0.65mm")
   (tags "SSOP-8 2.95x2.8mm Pitch 0.65mm")
   (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SSOP-8_2.95x2.8mm_Pitch0.65mm (at 0 2.6) (layer F.Fab)
+  (fp_text value SSOP-8_2.95x2.8mm_Pitch0.65mm (at 0 2.6) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.75 -1.65) (end 2.75 -1.65) (layer F.CrtYd) (width 0.05))
