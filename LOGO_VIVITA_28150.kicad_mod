@@ -6,6 +6,6 @@
   (fp_text value "LOGO" (at 0.75 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))
   )
-  (fp_poly (pts (xy 3.116204 3.104444) (xy -3.104444 3.104444) (xy -3.104444 -3.104444) (xy 3.116204 -3.104444) (xy 3.116204 3.104444) )(layer F.SilkS) (width  0.010000)
+  (fp_poly (pts (xy 1.411111 7.514167) (xy -1.399351 7.514167) (xy -1.399351 -7.502407) (xy 1.411111 -7.502407) (xy 1.411111 7.514167) )(layer F.SilkS) (width  0.010000)
   )
 )
