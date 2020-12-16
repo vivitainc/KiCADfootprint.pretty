@@ -12,4 +12,9 @@
   (fp_line (start -1 0.8) (end -1 -0.8) (layer F.Fab) (width 0.05))
   (pad 1 smd rect (at -0.8 0) (size 0.8 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.8 0) (size 0.8 1.8) (layers F.Cu F.Paste F.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/DFE201612PD_R47M_P005_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

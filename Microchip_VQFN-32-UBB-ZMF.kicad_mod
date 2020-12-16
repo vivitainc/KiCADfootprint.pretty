@@ -64,4 +64,9 @@
   (pad TP thru_hole circle (at -1.2 1.2) (size 0.3 0.3) (drill 0.3) (layers *.Cu *.Mask))
   (pad TP thru_hole circle (at -1.2 0) (size 0.3 0.3) (drill 0.3) (layers *.Cu *.Mask))
   (pad TP thru_hole circle (at 1.2 1.2) (size 0.3 0.3) (drill 0.3) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/part035_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

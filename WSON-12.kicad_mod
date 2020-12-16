@@ -35,4 +35,9 @@
   (pad 13 thru_hole circle (at 0 -0.75) (size 0.4 0.4) (drill 0.3) (layers *.Cu *.Mask))
   (pad "" smd rect (at 0 0.6) (size 0.9 0.8) (layers F.Paste))
   (pad "" smd rect (at 0 -0.6) (size 0.9 0.8) (layers F.Paste))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/DSS0012A_ASM_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -43,4 +43,9 @@
   (pad "" smd rect (at -0.8 -0.8) (size 0.45 0.45) (layers F.Paste))
   (pad "" smd rect (at -0.8 -1.6) (size 0.45 0.45) (layers F.Paste))
   (pad "" smd rect (at 0 -1.6) (size 0.45 0.45) (layers F.Paste))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/VL53L0CXV0DH_019_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

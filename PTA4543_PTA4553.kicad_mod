@@ -24,4 +24,9 @@
   (pad 1 thru_hole circle (at -29.25 -1.75) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -29.25 1.75) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 29.25 -1.75) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/SL45N5_10CP_ASM_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

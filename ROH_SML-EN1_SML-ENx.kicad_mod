@@ -21,4 +21,9 @@
     (zone_connect 2))
   (pad 2 smd rect (at 0.825 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask)
     (zone_connect 2))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/SMLD1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

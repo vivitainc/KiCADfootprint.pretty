@@ -24,4 +24,9 @@
   (pad 4 smd rect (at 0.95 -1.2) (size 0.6 0.72) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0 -1.2) (size 0.6 0.72) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -0.95 -1.2) (size 0.6 0.72) (layers F.Cu F.Paste F.Mask))
+  (model "../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/User Library-ZXTC2045E6TA.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

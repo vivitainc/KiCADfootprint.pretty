@@ -57,4 +57,9 @@
   (pad 17 thru_hole circle (at 0.5 -0.5) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 0.5 0.5) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at -0.5 0.5) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+  (model "../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/LTC - QFN-16 UD v3.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
