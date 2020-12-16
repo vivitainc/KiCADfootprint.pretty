@@ -26,4 +26,9 @@
   (pad 1 thru_hole rect (at 2 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -2 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/B3B-PH-K-S.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

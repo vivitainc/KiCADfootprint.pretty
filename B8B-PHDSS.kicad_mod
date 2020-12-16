@@ -31,4 +31,9 @@
   (pad 4 thru_hole circle (at -1 1) (size 1.3 1.3) (drill 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 1 1) (size 1.3 1.3) (drill 0.7) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 3 1) (size 1.3 1.3) (drill 0.7) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/B8B-PHDSS.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

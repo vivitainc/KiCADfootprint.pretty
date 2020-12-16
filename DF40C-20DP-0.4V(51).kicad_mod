@@ -70,4 +70,9 @@
     (clearance 0.1))
   (pad A1 smd rect (at 2.275 1.355) (size 0.35 0.66) (layers F.Cu F.Paste F.Mask)
     (clearance 0.1))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/DF40C-20DP-0.4Vnew.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

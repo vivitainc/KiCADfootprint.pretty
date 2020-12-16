@@ -23,4 +23,9 @@
   (pad 4 thru_hole circle (at 3.5 -2.71) (size 1.55 1.55) (drill 0.92) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at -6.57 0) (size 1.8 3.34) (drill oval 0.8 2.34) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 6.57 0) (size 1.8 3.34) (drill oval 0.8 2.34) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/87520-1010ALF_SW0001.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

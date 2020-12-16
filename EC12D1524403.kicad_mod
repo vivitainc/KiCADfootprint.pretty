@@ -28,4 +28,9 @@
   (pad E thru_hole circle (at 0 -6.85) (size 1.45 1.45) (drill 1.05) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at -5.625 0) (size 2.55 2.55) (drill 2.15) (layers *.Cu *.Mask))
   (pad 2 thru_hole rect (at 5.625 0) (size 2.55 2.65) (drill 2.15) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/EC12D1524403.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

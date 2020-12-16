@@ -22,4 +22,9 @@
   (fp_line (start -2.95 -2.8) (end -2.95 1.7) (layer F.CrtYd) (width 0.1))
   (pad 1 thru_hole rect (at 1 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -1 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/B2B-PH-K-S.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
