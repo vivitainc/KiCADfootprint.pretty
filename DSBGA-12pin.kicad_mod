@@ -31,4 +31,9 @@
   (pad D1 smd circle (at -0.4 0.6) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
   (pad D2 smd circle (at 0 0.6) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
   (pad D3 smd circle (at 0.4 0.6) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/part014_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
