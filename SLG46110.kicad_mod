@@ -48,4 +48,9 @@
     (clearance 0.18))
   (pad 12 smd rect (at -0.2 -0.755) (size 0.21 0.39) (layers F.Cu F.Paste F.Mask)
     (clearance 0.18))
+  (model ../../../../../../Users/KM_notePC/Desktop/vivita/git/KiCad_dev/mylib/KiCAD3d/step_data/Edited/SLG4R41962.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
