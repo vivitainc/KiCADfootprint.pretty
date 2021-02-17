@@ -1,9 +1,9 @@
-(module Murata_C1005 (layer F.Cu) (tedit 5EB397FA)
+(module Murata_C1005 (layer F.Cu) (tedit 6020CA57)
   (attr smd)
-  (fp_text reference REF** (at 0 -1.2) (layer F.SilkS)
+  (fp_text reference C8 (at 0.004 1.274) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Murata_C1005 (at 0 -3.4) (layer F.Fab) hide
+  (fp_text value 1005 (at 0 -3.4) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.5 -0.25) (end -0.5 0.25) (layer F.Fab) (width 0.1))
