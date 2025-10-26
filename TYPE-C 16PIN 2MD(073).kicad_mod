@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -0.1 -18.3 0)
+		(at 0.05 -2.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "2ce3ad8f-9110-4c4c-aa0e-66b4023da39a")
@@ -16,9 +16,10 @@
 		)
 	)
 	(property "Value" "TYPE-C 16PIN 2MD(073)"
-		(at -0.1 -16.8 0)
+		(at -0.05 -5.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "98defe8c-5ecc-475f-948c-ca176bf86e77")
 		(effects
 			(font
@@ -66,7 +67,7 @@
 		(uuid "cbd33b49-6351-44d8-97af-b6ddb97ef6b8")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -0.1 -15.3 0)
+		(at 0.05 2.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "2c8f83c2-6fb4-4891-9223-d2db30ba6067")
